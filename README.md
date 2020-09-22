@@ -5,3 +5,6 @@ Tehnoloogia poolest kasutatakse ainult Javat.
 AI on vastased, kes peategelast ründavad.
 Kui mängija vastasele piisavalt lähedale läheb, siis hakkab vastane mängijat 
 tulistama ja jälitama.
+pikoiv - Pilleriin Kõiva
+mikohh - Mihhail Kohhantšuk
+hekiik - Heino Kiik
